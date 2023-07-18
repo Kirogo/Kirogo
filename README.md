@@ -2,10 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=25&pause=1000&color=E9C41B&width=435&lines=Hello%2C+I+am+Samuel+Kirogo;I+am+a+Software+Developer;I+am+a+Graphic+Designer)](https://git.io/typing-svg)
 
 ###
+
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=Kirogo&label=Profile%20views&color=0e75b6&style=flat"
     alt="Kirogo" />
 </p>
+
 ###
 
 <p align="left">I'm Samuel Kirogo Muriithi, a creative and ambitious Information Technology graduate with a passion for software development and graphic design. <br><br>Software applications are my canvas, where I express my ideas and creativity to build one-of-a-kind digital experiences.<br><br>As a student of life, I believe that every challenge is an opportunity to grow, and I embrace them with enthusiasm. I'm always on the lookout for emerging technologies and new skills to add to my toolkit.<br><br>Let's connect and create something amazing together!</p>
