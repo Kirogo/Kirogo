@@ -13,6 +13,7 @@
 <p align="left">I'm Samuel Kirogo Muriithi, a creative and ambitious Information Technology graduate with a passion for software development and graphic design. <br><br>Software applications are my canvas, where I express my ideas and creativity to build one-of-a-kind digital experiences.<br><br>As a student of life, I believe that every challenge is an opportunity to grow, and I embrace them with enthusiasm. I'm always on the lookout for emerging technologies and new skills to add to my toolkit.<br><br>Let's connect and create something amazing together!</p>
 
 ###
+
 <h2 align="center">Tools & Skills</h2>
 
 ###
