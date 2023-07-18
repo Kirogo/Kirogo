@@ -1,5 +1,4 @@
 <h1 align="center">Hello There</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=1000&height=60&lines=Hello++%F0%9F%91%8B+I+am+Muriithi+Samuel+Kirogo)](https://git.io/typing-svg)
 
 ###
 
@@ -9,7 +8,7 @@
 
 ###
 
-<h6 align="left">I'm Samuel Kirogo Muriithi, a creative and ambitious Information Technology graduate with a passion for software development and graphic design. <br><br>Software applications are my canvas, where I express my ideas and creativity to build one-of-a-kind digital experiences.<br><br>As a student of life, I believe that every challenge is an opportunity to grow, and I embrace them with enthusiasm. I'm always on the lookout for emerging technologies and new skills to add to my toolkit.<br><br>Let's connect and create something amazing together!</h6>
+<h5 align="left">I'm Samuel Kirogo Muriithi, a creative and ambitious Information Technology graduate with a passion for software development and graphic design. <br><br>Software applications are my canvas, where I express my ideas and creativity to build one-of-a-kind digital experiences.<br><br>As a student of life, I believe that every challenge is an opportunity to grow, and I embrace them with enthusiasm. I'm always on the lookout for emerging technologies and new skills to add to my toolkit.<br><br>Let's connect and create something amazing together!</h5>
 
 ###
 
