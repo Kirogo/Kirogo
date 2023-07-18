@@ -1,6 +1,6 @@
 <h1 align="center">Hello There</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=25&pause=1000&color=33B1E9&width=435&lines=I+am+Samuel+Kirogo;I+am+a+Software+Developer;I+am+a+Graphic+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=25&pause=1000&color=33B1E9&width=435&lines=Hello%2C+I+am+Samuel+Kirogo;I+am+a+Software+Developer;I+am+a+Graphic+Designer)](https://git.io/typing-svg)
 
 ###
 
