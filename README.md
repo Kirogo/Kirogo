@@ -4,9 +4,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kirogo.Kirogo&right_color=limegreen&left_text=Profile View"  />
-</div>
+<p align="left"> <img
+    src="https://komarev.com/ghpvc/?username=Kirogo&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Kirogo" />
+</p>
 
 ###
 
