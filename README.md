@@ -47,6 +47,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kirogo/Kirogo/output/snake.svg" alt="Snake animation" />
 
 ###
