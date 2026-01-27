@@ -1,9 +1,15 @@
 
-<h1 align="center">Hello, I'm Kirogo Samuel</h1>
-<h3 align="center">Web & App Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=25&pause=1000&color=E9C41B&width=435&lines=Hello%2C+I+am+Samuel+Kirogo;I+am+a+Web+&+App+Developer)](https://git.io/typing-svg)
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Kirogo&label=Profile%20views&color=0e75b6&style=flat" alt="Kirogo Samuel" />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=express" alt="express" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="50" height="50" />
+</div>
 
 <div align="center">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -14,14 +20,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="50" height="50" />
-</div>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
