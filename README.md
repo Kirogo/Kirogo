@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=650&color=E9C41B&center=true&vCenter=true&multiline=true&repeat=false&width=450&height=100&lines=I'm+Kirogo+Samuel;Web+%26+App+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=650&color=E9C41B&center=true&vCenter=true&multiline=true&width=450&height=100&lines=I'm+Kirogo+Samuel;Web+%26+App+Developer)](https://git.io/typing-svg)
 <br>
 
 <p align="left"> 
@@ -38,24 +38,9 @@ My recent project: **Rekova (full-stack) - Loan Collections System**
 I'm currently learning **C# for Backend Development**
 
 
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="50" height="50" />
-</div>
-
-<div align="center">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
