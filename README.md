@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=3000&pause=650&color=E9C41B&multiline=true&width=600&height=300&lines=I'm+Kirogo+Samuel;Web+%26+App+Developer)](https://git.io/typing-svg)
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=650&color=E9C41B&multiline=true&width=600&height=300&lines=I'm+Kirogo+Samuel;Web+%26+App+Developer)](https://git.io/typing-svg)
+</div>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Kirogo&label=Profile%20views&color=0e75b6&style=flat" alt="Kirogo Samuel" />
 
