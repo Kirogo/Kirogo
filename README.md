@@ -6,7 +6,7 @@
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Kirogo&label=Profile%20views&color=0e75b6&style=flat" alt="Kirogo Samuel" />
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: center;">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -30,9 +30,11 @@
 
 I'm currently working on **MERN Stack Applications**
 
+My recent project: **Rekova (full-stack) - Loan Collections System**
+
 I'm currently learning **C# for Backend Development**
 
-My recent project: **Rekova (full-stack) - Loan Collections System**
+
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
