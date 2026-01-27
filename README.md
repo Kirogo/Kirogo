@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=25&pause=1000&color=E9C41B&width=435&lines=Hello%2C+I+am+Samuel+Kirogo;I+am+a+Web+&+App+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=650&color=E9C41B&width=435&lines=Hello;I'm+Kirogo+Samuel;Web+%26+App+Developer)](https://git.io/typing-svg)
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Kirogo&label=Profile%20views&color=0e75b6&style=flat" alt="Kirogo Samuel" />
