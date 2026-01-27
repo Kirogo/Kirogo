@@ -1,17 +1,17 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hello, I'm Samuel Kirogo Muriithi</h1>
-<h3 align="center">Information Technology Graduate & Software Developer</h3>
+<h1 align="center">Hello, I'm Kirogo Samuel</h1>
+<h3 align="center">Web & App Developer</h3>
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Kirogo&label=Profile%20views&color=0e75b6&style=flat" alt="Kirogo Samuel" /> 
+ <img src="https://komarev.com/ghpvc/?username=Kirogo&label=Profile%20views&color=0e75b6&style=flat" alt="Kirogo Samuel" />
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="50" height="50" />
+<div style="display: flex; align-items: flex-start;">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
 <br>
@@ -28,17 +28,12 @@
 
 <br><br>
 
-🔭 I'm currently working on **MERN stack applications**
+I'm currently working on **MERN Stack Applications**
 
-🌱 I'm currently learning **advanced React patterns and Node.js optimization**
+I'm currently learning **C# for Backend Development**
 
-👨‍💻 My recent projects: **Rekova (full-stack), Store-POS-UI, Sacco-AdminPanel**
+My recent project: **Rekova (full-stack) - Loan Collections System**
 
-💬 Ask me about **JavaScript, React, PHP, and web development fundamentals**
-
-📫 How to reach me: **GitHub: [Kirogo](https://github.com/Kirogo)**
-
-⚡ Fun fact: **I believe every coding challenge is an opportunity to learn something new**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -64,5 +59,4 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+<em><b>Lets connect and create</b> :)</em>
