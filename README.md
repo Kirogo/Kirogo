@@ -30,11 +30,11 @@
 
 <br>
 
-I'm currently working on **MERN Stack Applications**
+I'm currently working on **Micro-Services Structure in Backend Development**
 
-My recent project: **Rekova (full-stack) - Loan Collections System**
+My recent project: **Ticketing System - Management of tasks and duties**
 
-I'm currently learning **C# for Backend Development**
+I'm currently learning **JAVA for Backend Development**
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
